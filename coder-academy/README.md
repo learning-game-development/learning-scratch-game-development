@@ -4,7 +4,7 @@
 
 ## :video_game: Challenges
 
-### Getting to know code
+### :heavy_check_mark: Getting to Know Code
 
 1. Code Coordinates (AC-Code-Coordinates-challenge.sb3)
 2. Make A Sprite Dance (AC-Make-A-Sprite-Dance-challenge.sb3)
@@ -12,10 +12,10 @@
 4. Making Decisions (CA-Making-Decisions-challenge.sb3)
 5. Using Broadcasts (CA-Variables-challenge.sb3)
 
-### Art and animations
+### :o: Art and Animations
 
-### Music
+### :o: Music
 
-### Website
+### :o: Website
 
-### Coders's kit
+### :o: Coders's Kit
