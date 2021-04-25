@@ -21,6 +21,9 @@
 
 ### :o: Music
 
+1. **Code A Tune** (CA-Code-A-Tune.sb3)
+2. **Design An Instrument** (CA-Design-An-Instrument.sb3)
+
 ### :o: Website
 
 ### :o: Coders's Kit
