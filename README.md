@@ -9,7 +9,7 @@ Projects, samples and templates created to learn game development in Scratch.
 
 ## :books: Book Courses and Tutorls
 
-1. :o: [Coder Academy](coder-academy/) (Physical book)
+1. :heavy_check_mark: [Coder Academy](coder-academy/) (Physical book)
 
 ## :page_with_curl: License
 
