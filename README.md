@@ -9,7 +9,8 @@ Projects, samples and templates created to learn game development in Scratch.
 
 ## :books: Book Courses and Tutorls
 
-1. :heavy_check_mark: [Coder Academy](coder-academy/) (Physical book)
+1. :heavy_check_mark: [Coder Academy](coder-academy/) -- Physical book
+2. :o: The Official ScratchJr Book: Help Your Kids Learn to Code -- Humble bundle ebook
 
 ## :page_with_curl: License
 
