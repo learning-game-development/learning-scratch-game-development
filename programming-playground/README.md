@@ -11,7 +11,7 @@
 - :heavy_check_mark: Chapter 2: Rainbow Lines in Space!
 - :heavy_check_mark: Chapter 3: Maze Runner
 - :heavy_check_mark: Chapter 4: Shooting Hoops with Gravity
-- :o: Chapter 5: A Polished Brick Breaker Game
+- :heavy_check_mark: Chapter 5: A Polished Brick Breaker Game
 - :o: Chapter 6: Snaaaaaake!
 - :o: Chapter 7: Fruit Slicer
 - :o: Chapter 8: Asteroid Breaker . . . in Space!
