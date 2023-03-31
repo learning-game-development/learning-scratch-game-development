@@ -14,5 +14,5 @@
 - :heavy_check_mark: Chapter 5: A Polished Brick Breaker Game
 - :heavy_check_mark: Chapter 6: Snaaaaaake!
 - :heavy_check_mark: Chapter 7: Fruit Slicer
-- :o: Chapter 8: Asteroid Breaker . . . in Space!
+- :heavy_check_mark: Chapter 8: Asteroid Breaker . . . in Space!
 - :o: Chapter 9: Making an Advanced Platformer
