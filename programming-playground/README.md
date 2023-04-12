@@ -15,4 +15,4 @@
 - :heavy_check_mark: Chapter 6: Snaaaaaake!
 - :heavy_check_mark: Chapter 7: Fruit Slicer
 - :heavy_check_mark: Chapter 8: Asteroid Breaker . . . in Space!
-- :o: Chapter 9: Making an Advanced Platformer
+- :heavy_check_mark: Chapter 9: Making an Advanced Platformer
