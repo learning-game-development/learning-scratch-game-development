@@ -11,7 +11,7 @@ Projects, samples and templates created to learn game development in Scratch.
 
 1. :heavy_check_mark: [Coder Academy](coder-academy/) -- Physical book
 2. :heavy_check_mark: The Official ScratchJr Book: Help Your Kids Learn to Code -- Humble bundle ebook
-3. :0: [Scratch Programming Playground: Learn to Program by Making Cool Games](/programming-playground) -- Humble bundle ebook
+3. :heavy_check_mark: [Scratch Programming Playground: Learn to Program by Making Cool Games](/programming-playground) -- Humble bundle ebook
 
 ## :page_with_curl: License
 
